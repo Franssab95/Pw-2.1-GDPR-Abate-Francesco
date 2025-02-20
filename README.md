@@ -3,7 +3,7 @@
 ## Descrizione
 Questo repository contiene due script Python sviluppati per gestire dati personali in conformità al GDPR:
 1. `generate_data.py`: Genera dati fittizi (nome, cognome, email, telefono) per 10 utenti e li salva in `utenti.xlsx`.
-2. `import_to_sql.py`: Importa i dati da `utenti.xlsx` in un database SQLite (`database.db`).
+2. `Creazione Tabella da File exel.py`: Importa i dati da `utenti.xlsx` in un database SQLite (`database.db`).
 
 ## Installazione
 1. Assicurati di avere Python 3.x installato.
