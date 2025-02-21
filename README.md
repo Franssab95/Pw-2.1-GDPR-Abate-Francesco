@@ -8,7 +8,7 @@ Questo repository contiene due script Python sviluppati per gestire dati persona
 ## Installazione
 1. Assicurati di avere Python 3.x installato.
 2. Clona il repository: `git clone https://github.com/Franssab95/Pw-2.1-GDPR-Abate-Francesco.git`
-3. Installa le dipendenze: `pip install -r requirements.txt`
+3. Gli applicativi hanno già all'interno del codice delle instruzioni per scaricare ed installare le funzioni necessarie al loro funzionamento, così da non dover necessitare di altro se non python installato.
 
 ## Uso
 1. Genera i dati: `python generate_data.py`
